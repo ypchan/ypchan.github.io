@@ -1,6 +1,6 @@
 # 陈艳朋的学术简历
 
-![照片](https://your-image-url.com/photo.jpg)
+![照片](陈艳朋证件照.jpg)
 
 ## 基本信息
 - **性别**: 男
